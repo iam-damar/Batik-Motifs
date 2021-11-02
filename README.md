@@ -1,11 +1,12 @@
-# Batik-Motifs
+# :lab_coat: Batik-Motifs
 
 Indonesia is a country rich in culture. One of the famous Indonesian cultural heritage is batik. Batik has even been recognized by UNESCO since October 2, 2009 as an Indonesian cultural heritage. The materials used in batik consist of cloth, batik wax, and batik dyes. Batik has various patterns of different motifs throughout Indonesia, and the motifs on batik certainly have a distinctive style and have its own meaning in each pattern. 
 [SWM](https://journal.lppmunindra.ac.id/index.php/sosio_ekons/article/view/2932)
-## Dataset
+
+## :books: Dataset
 Batik dataset consists of 750 batik image data. The dataset contains 3 categories/classes, namely batik-kawung, batik-parang, and batik-megamendung. In this dataset, the folder directory has been neatly arranged and can be processed directly. The batik images in this dataset are 300x200 in JPG format. The total number of images in each dataset class is 250.
 
-You can take a quick look at the following table:
+:arrow_down: You can take a quick look at the following table:
 
 Class Name | Qty | Dimension size | Preview | Type | Format
 --- | --- | --- | --- | --- | ---
